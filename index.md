@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 1.สหกรณ์ออมทรัพย์คืออะไร ? มีหน้าที่ทำอะไร ?
+คำตอบ องค์การที่จัดตั้งขึ้นโดยมีวัตถุประสงค์เพื่อช่วยเหลือซึ่งกันและกันในหมู่สมาชิกโดยสมาชิกแต่ละคนออมรายได้ฝากไว้กับสหกรณ์เป็นประจำสม่ำเสมอในลักษณะการถือหุ้นและฝากเงิน นอกจากนั้นหากสมาชิกประสบความเดือดร้อนเกี่ยวกับการเงินก็สามารถช่วยเหลือได้โดยการให้กู้ยืมซึ่งอัตราดอกเบี้ยจะต่ำกว่าสถาบันการเงินอื่นสมาชิกสหกรณ์ทั้งหมดจะเป็นผู้ที่อยู่ในหน่วยงานเดียวกันและมีเงินเดือนประจำด้วย
+## 2.บริษัท SO-AT เรามี Product อะไรบ้างและลูกค้าส่วนใหญ่คือกลุ่มธุรกิจประเภทอะไร ?
+คำตอบ PRODUCTS มีดังนี้ 1. COOP CORE Solution, 2. ATM-Online, 3. Web Info/Member, 4. AD-Sync, 5. Mobile App, 6.SMS-ALert, 7. Hardware, 8. Anntivirus System, 9. Firewall System, 10. Calculate Loan ลูกค้าส่วนใหญ่ คือ กลุ่มธุรกิจประเภทการเงิน
+## 3.บริษัทคู่แข่งของ SO-AT เรามีเจ้าไหนบ้างและเรามีกลยุทธุ์อะไรที่คิดว่าจะเอาชนะคู่แข่งได้บ้าง ?
+คำตอบ บริษัทที่ทำเกี่ยวกับเว็บไซด์สหกรณ์และเว็บพลิเคชั่น กลยุทธ์ที่คิดว่าจะเอาชนะ ศึกษาคู่แข่งและด้วยประสบการณ์กว่า 10 ปี ทีมวิเคราะห์และพัฒนาผลิตภัณฑ์ของบริษัท รองรับการบริหารจัดการด้านการเงินแบบครบวงจร ทั้งด้านเงินสด เงินโอน เช็ค พร้อมด้วยระบบการจัดการเงินรอจ่ายคืน และเงินรอตรวจสอบ แบบสมบูรณ์ที่สุด
 
-You can use the [editor on GitHub](https://github.com/Chandech/so-at-DAY1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chandech/so-at-DAY1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
